@@ -1,7 +1,6 @@
 package app;
 
 // Author: Akin Aksay
-// Author: Manupreeth Vallala
 public class Song {
 
     private String title;
