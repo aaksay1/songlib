@@ -14,7 +14,6 @@ import app.Song;
 
 
 // Author: Akin Aksay
-// Author: Manupreeth Vallala
 public class fileControl implements Comparator<Song>{
 
     public int compare(Song song1, Song song2) {
