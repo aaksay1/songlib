@@ -18,7 +18,6 @@ import app.Song;
 
 
 // Author: Akin Aksay
-// Author: Manupreeth Vallala
 public class songLibController {
 
     @FXML
