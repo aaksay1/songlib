@@ -9,7 +9,6 @@ import javafx.stage.Stage;
 import view.songLibController;
 
 // Author: Akin Aksay
-// Author: Manupreeth Vallala
 public class SongLib extends Application{
 
     public void start(Stage primaryStage) throws Exception {
